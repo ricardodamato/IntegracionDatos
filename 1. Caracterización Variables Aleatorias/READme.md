@@ -19,4 +19,4 @@ Se realiza la caracterización de la distribución agregada de pérdidas (LDA), 
   - Curtosis  
 
 ## 📁 Archivos
-- FallasTecnológicas.xlsx
+- 1. FallasTecnológicas.xlsx
